@@ -1,0 +1,16 @@
+#  icons can be found on https://themify.me/themify-icons
+---
+enable: true
+title: Benefit yang kamu dapatkan jika menggunakan jasa kami!
+services:
+  - icon: ti-settings
+    title: Kemudahan
+    description: Kemudahan untuk mengakses, sehingga Anda bisa mendesain ulang sesuai apa yang diinginkan.
+
+  - icon: ti-check-box
+    title: Free Maintenance
+    description: Free maintenance website setiap bulan* untuk perubahan pada website dan maintenance lainnya.
+
+  - icon: ti-key
+    title: Keamanan
+    description: Keamanan super untuk menjaga kualitas website supaya tidak bisa ditembus oleh hacker.

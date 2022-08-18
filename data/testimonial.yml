@@ -1,0 +1,24 @@
+---
+enable: true
+title: Apa yang mereka katakan tentang jasa kami
+description: Kami memiliki testimoni guna meningkatkan rasa kepercayaan client terhadap jasa kami
+comments:
+  - text: Mantap, pelayanannya terbaik bisa custom website apa yang saya minta
+    name: Danang Agustira
+    designation: client
+    image: images/client/man.png
+
+  - text: Ihh lucu abisss, webnya juga keren jadi lebih mudah buat promosi + harganya juga terjangkau
+    name: Manda Asinta
+    designation: client
+    image: images/client/woman.png
+
+  - text: Mantap harganya terjangkau dan websitenya keren parah
+    name: Gunawan Riadi
+    designation: client
+    image: images/client/man.png
+     
+  - text: Di santuimedia.app lebih keren sih desainnya, dan pelayanannya juga ramah
+    name: Dio
+    designation: client
+    image: images/client/man.png

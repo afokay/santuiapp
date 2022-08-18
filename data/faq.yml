@@ -1,0 +1,19 @@
+---
+enable: true
+title: Pertanyaan yang sering diajukan
+description: Semua layanan pembuatan website di Santui Media adalah All in One, Anda terima beres. Jadi cukup lampirkan materi dan susunan menu website yang Anda inginkan, selebihnya tim kami yang mengerjakannya.
+faqItem:
+  - question: Bagaimana cara memesannya?
+    answer: Jika Anda ingin memesan layanan di Santui Media bisa melalui halaman kontak yang sudah kami sediakan. Anda bebas merancang suatu website sesuai apa yang kamu inginkan.
+    dataTarget: One
+    show: show
+
+  - question: Sistem pembayaran apa saja yang bisa digunakan?
+    answer: Kami menerima pembayaran Bank lokal, Qris, E-wallet (OVO, Gopay, DANA, Shopee Pay), dan bisa juga melalui PayPal.
+    dataTarget: Two
+    show: 
+    
+  - question: Apakah sudah termasuk hosting dan domain?
+    answer: Ya, semua paket pembuatan website di Santui Media sudah termasuk hosting dan domain. Tetapi khusus paket promosi produk, Anda hanya mendapatkan akses ke halaman admin saja.
+    dataTarget: Three
+    show: 

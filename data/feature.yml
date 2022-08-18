@@ -1,0 +1,14 @@
+---
+enable: true
+title: Pengalaman terbaik dengan berbagai macam fitur
+description: Kami menyediakan berbagai macam fitur dan desain untuk melengkapi kebutuhan website Anda.
+description2: Melalui desain website yang elegan serta navigasi yang mudah. Tampilan halaman terlihat keren sekaligus responsif apabila diakses dari smartphone, tablet, dsb.
+buttonText: Demo
+Title2nd: Kemudahan untuk menganalisa
+description2nd: Terhubung dengan google analytics untuk memantau data statistik website Anda, sehingga memudahkan Anda dalam monitoring traffic dan menentukan strategi promosi / pemasaran.
+image1: images/feature/feature-illustration-one.svg
+image2: images/feature/feature-illustration-two.svg
+checkItem:
+  - text: Kemudahan untuk menganalisa.
+  - text: Memiliki halaman dashboard Admin.
+  - text: Desain super elegan diberbagai macam device.
